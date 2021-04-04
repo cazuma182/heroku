@@ -1,0 +1,34 @@
+{
+    "access_token": "ya29.a0AfH6SMAGS4cPgMdBgfDsPF65FfE_yPZVcd7l9_YbZVKCazw7B1riFQLmurraPSH_2YQTEqSHa3oaUIxfPXuzIomFs8P-OQB_3fy4EG0ICa1hA8sVgEwxBSxhaPKt56NmcJH5QJQfu5w0JxKzg_OGlDPW1sEf",
+    "account_list": [
+        {
+            "username": "cazuma182",
+            "password": "38495430g",
+            "pic": "https://pbs.twimg.com/media/C7cQGkbX4AEsk-1.jpg",
+            "auth": "367102g3ri7ls4wnho97lgvkxdxp7xqpuvpbdxl4djcwsos9fj"
+        }
+    ],
+    "build_interval": 120,
+    "category_list": [
+        {
+            "type": "Movies",
+            "name": "Filmes",
+            "id": "1u5sbvzjCdDauFDcOK31u-Lu_dOowPQT9"
+        },
+        {
+            "type": "TV Shows",
+            "name": "Series",
+            "id": "1p6Ij5apCS9dpyVPWIUs2TEMuj8ejmqQ3"
+        }
+    ],
+    "client_id": "102162527089-7q7e6tbjq7a4oo3lnnb57h641uaud045.apps.googleusercontent.com",
+    "client_secret": "OiShmZ1vJKiLdPWmrf28-dMO",
+    "cloudflare": "https://dawn-haze-c419.thepirate.workers.dev",
+    "refresh_token": "1//0hP_dI3vDbIJLCgYIARAAGBESNwF-L9Irrr8K5TX25jI9kNx9PAzaCRDcFK9qh032PvpuEq9PFI3nB_Xke_oIGbm2tLi6jBUw3Po",
+    "secret_key": "38495430gG!",
+    "tmdb_api_key": "f4e61431c6ac1099c4d8850fae1e5b12",
+    "token_expiry": "",
+    "transcoded": false,
+    "signup": false,
+    "auth": true
+}
